@@ -1,4 +1,4 @@
-                                                   ** Project :  YouTube API Project**
+* Project :  YouTube API Project*
 **Credits:**  
 •	Yuteng Zhang
 •	Dipti Sontakke
